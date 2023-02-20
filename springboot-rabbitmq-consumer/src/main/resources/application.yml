@@ -1,0 +1,14 @@
+# ??rabbitmq???????
+spring:
+  rabbitmq:
+    host: 172.26.41.194
+    port: 5672
+    username: admin
+    password: admin
+    virtual-host: /hzero
+    # ????????
+    listener:
+      direct:
+        acknowledge-mode: manual
+        prefetch: 1
+
