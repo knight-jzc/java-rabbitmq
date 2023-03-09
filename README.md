@@ -1,9 +1,9 @@
 
 
 
-<div align=center>
-     <p style="font-size:70px;">java-rabbitmq</p>
-</div>
+<h1 align=center>
+     java-rabbitmq
+</h1>
 
 
 <div align=center>
