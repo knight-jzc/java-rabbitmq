@@ -1,6 +1,6 @@
 
 <div align=center>
-    <p font-size=70px>java-rabbitmq</p>
+    <p font-size:70px>java-rabbitmq</p>
 </div>
 
 <div align=center>
