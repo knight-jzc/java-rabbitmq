@@ -1,9 +1,9 @@
 
-<div font-size="70" align=center>
-    java-rabbitmq
+<div align=center>
+    <p font-size=70px>java-rabbitmq</p>
 </div>
 
-<div font-size="70" align=center>
+<div align=center>
 
 ![Github stars](https://img.shields.io/github/stars/knight-jzc/java-rabbitmq?style=plastic&logo=github&color=yellow)   ![Github forks](https://img.shields.io/github/forks/knight-jzc/java-rabbitmq?style=plastic&logo=github&color=brightgreen)   ![Github watchers](https://img.shields.io/github/watchers/knight-jzc/java-rabbitmq?style=plastic&logo=github)
 
