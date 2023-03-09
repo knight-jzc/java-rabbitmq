@@ -1,6 +1,6 @@
 
-<div align=center>
-    <p font-size:70px>java-rabbitmq</p>
+<div style="font-size: 70px;" align=center>
+   java-rabbitmq
 </div>
 
 <div align=center>
