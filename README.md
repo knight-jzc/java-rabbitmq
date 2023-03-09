@@ -1,7 +1,7 @@
 # java-rabbitmq
 ![Github stars](https://img.shields.io/github/stars/knight-jzc/java-rabbitmq?style=plastic&logo=github&color=yellow)   ![Github forks](https://img.shields.io/github/forks/knight-jzc/java-rabbitmq?style=plastic&logo=github&color=brightgreen)   ![Github watchers](https://img.shields.io/github/watchers/knight-jzc/java-rabbitmq?style=plastic&logo=github)   ![Github License](https://img.shields.io/github/license/knight-jzc/java-rabbitmq?style=plastic&logo=appveyor)
 
-&ensp;&ensp;![](https://img.shields.io/badge/Alipay-欢迎支持--金主-green?logo=Alipay&style=plastic#pic_center)
+&ensp;&ensp;&ensp;&ensp;![](https://img.shields.io/badge/Alipay-欢迎支持--金主-green?logo=Alipay&style=plastic#pic_center)
 
 ---
 
