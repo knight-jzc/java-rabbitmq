@@ -19,7 +19,7 @@ RabbitMQ，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高�
 
 ---
 
-# 一、MQ基础知识以及各产品
+# MQ基础知识以及各产品
 ## 1.基本概念
 
 ● MQ，消息队列，存储消息的中间件
@@ -158,8 +158,8 @@ RocketMQ在阿里集团被广泛应用在订单，交易，充值，流计算，
 
 ● 没有在 mq 核心中去实现JMS等接口，有些系统要迁移需要修改大量代码
 
-# 二、RabbitMQ基础
-# 二、Ubuntu(WSL)安装 RabbitMQ
-# 二、Spring整合RabbitMQ
-# 二、SpringBoot整合RabbitMQ
-# 二、SpringBoot整合RabbitMQ高级特性
+# RabbitMQ基础
+# Ubuntu(WSL)安装 RabbitMQ
+# Spring整合RabbitMQ
+# SpringBoot整合RabbitMQ
+# SpringBoot整合RabbitMQ高级特性
