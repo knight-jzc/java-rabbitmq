@@ -5,6 +5,9 @@
      java-rabbitmq
 </h1>
 
+<h4 align=center>
+此项目主要包括RabbitMQ基础，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高级特性的代码实现。
+</h4>
 
 <div align=center>
 
@@ -15,8 +18,6 @@
 </div>
 
 ---
-
-此项目主要包括RabbitMQ基础，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高级特性的代码实现。
 
 # 一、MQ基础知识以及各产品
 ## 1.基本概念
