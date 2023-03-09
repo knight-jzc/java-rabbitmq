@@ -3,9 +3,9 @@
 
 ![](https://img.shields.io/badge/Alipay-欢迎支持--金主-green?logo=Alipay&style=plastic)
 
-## 此项目主要包括RabbitMQ基础，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高级特性的代码实现。
+此项目主要包括RabbitMQ基础，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高级特性的代码实现。
 
-# 一、[MQ基础知识以及各产品](rabbitmq-pdf/MQ基础知识及各产品.pdf)
+# 一、MQ基础知识以及各产品
 ## 1.基本概念
 
 ● MQ，消息队列，存储消息的中间件
@@ -61,11 +61,13 @@ A 系统处理完业务，通过 MQ 给B、C、D三个系统发消息数据，�
 ● 功能支持：MQ领域的功能极其完备
 
 **缺点:**
+
 官方社区现在对ActiveMQ 5.x维护越来越少，较少在大规模吞吐的场景中使用。
 ### Kafka
 号称大数据的杀手锏，谈到大数据领域内的消息传输，则绕不开Kafka，这款为大数据而生的消息中间件，以其百万级TPS的吞吐量名声大噪，迅速成为大数据领域的宠儿，在数据采集、传输、存储的过程中发挥着举足轻重的作用。
 Apache Kafka它最初由LinkedIn公司基于独特的设计实现为一个分布式的提交日志系统( a distributed commit log)，之后成为Apache项目的一部分。
 目前已经被LinkedIn，Uber, Twitter, Netflix等大公司所采纳。
+
 **优点**
 
 ● 性能卓越，单机写入TPS约在百万条/秒，最大的优点，就是吞吐量高。
@@ -96,6 +98,7 @@ Apache Kafka它最初由LinkedIn公司基于独特的设计实现为一个分布
 
 ### RabbitMQ
 RabbitMQ 2007年发布，是一个在AMQP(高级消息队列协议)基础上完成的，可复用的企业消息系统，是当前最主流的消息中间件之一。
+
 **RabbitMQ优点：**
 
 ● 由于erlang语言的特性，mq 性能较好，高并发；
@@ -118,6 +121,7 @@ RabbitMQ 2007年发布，是一个在AMQP(高级消息队列协议)基础上完�
 ### RocketMQ
 RocketMQ出自 阿里公司的开源产品，用 Java 语言实现，在设计时参考了 Kafka，并做出了自己的一些改进。
 RocketMQ在阿里集团被广泛应用在订单，交易，充值，流计算，消息推送，日志流式处理，binglog分发等场景。
+
 **RocketMQ优点：**
 
 ● 单机吞吐量：十万级
@@ -140,8 +144,8 @@ RocketMQ在阿里集团被广泛应用在订单，交易，充值，流计算，
 
 ● 没有在 mq 核心中去实现JMS等接口，有些系统要迁移需要修改大量代码
 
-# 二、[RabbitMQ基础](rabbitmq-pdf/RabbitMQ基础.pdf)
-# 二、[Ubuntu(WSL)安装 RabbitMQ](rabbitmq-pdf/Ubuntu(WSL)安装RabbitMQ.pdf)
-# 二、[Spring整合RabbitMQ](rabbitmq-pdf/Spring整合RabbitMQ.pdf)
-# 二、[SpringBoot整合RabbitMQ](rabbitmq-pdf/SpringBoot整合RabbitMQ.pdf)
-# 二、[SpringBoot整合RabbitMQ高级特性](rabbitmq-pdf/SpringBoot整合RabbitMQ高级特性.pdf)
+# 二、RabbitMQ基础
+# 二、Ubuntu(WSL)安装 RabbitMQ
+# 二、Spring整合RabbitMQ
+# 二、SpringBoot整合RabbitMQ
+# 二、SpringBoot整合RabbitMQ高级特性
