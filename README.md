@@ -1,8 +1,8 @@
 
 
 
-<div style="font-size: 70px; text-align: center;">
-     java-rabbitmq
+<div align=center>
+     <p style="font-size:70px;">java-rabbitmq</p>
 </div>
 
 
