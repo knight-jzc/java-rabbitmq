@@ -2,7 +2,7 @@
 
 
 <div style="font-size: 70px; text-align: center;">
-java-rabbitmq
+     java-rabbitmq
 </div>
 
 
