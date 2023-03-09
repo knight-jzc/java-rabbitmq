@@ -6,7 +6,7 @@
 </h1>
 
 <h4 align=center>
-此项目主要包括RabbitMQ基础，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高级特性的代码实现。
+RabbitMQ，Spring整合RabbitMQ，Springboot整合rabbitmq以及整合它的高级特性。
 </h4>
 
 <div align=center>
